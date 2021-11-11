@@ -1,5 +1,7 @@
-<h1 align="center">Hi 👋, I'm Juan Manuel Corbera</h1>
-<h3 align="center">A passionate Full Stack developer from Argentina</h3>
+<h1 align="center">Hi 👋, I'm Juan Manuel</h1>
+<h3 align="center">A passionate Full Stack developer</h3>
+
+- 🌍 I am from: Buenos Aires, Argentina
 
 - 🔭 I am currently collaborating with *Credipaz S.A.* in creating new developments for your financial systems [Credipaz S.A.](https://credipaz.com/)
 
@@ -8,6 +10,8 @@
 - 💾 All of my projects are available at [https://github.com/jmcorbera](https://github.com/jmcorbera)
 
 - 💬 Ask me about **C#, .Net Framework, .Net Core**
+
+- 👍 I like: good food, getting together with friends, sports (especially soccer), enjoying life!!
 
 <h3 align="left">Languages and Tools:</h3>  
 
