@@ -1,5 +1,4 @@
-<h1 align="center">Hi 👋, I'm Juan Manuel <br> <h3 align="center">In constant search of new challenges</h3> </br> </h1>
-<h3 align="center">In constant search of new challenges</h3>
+<h1 align="center">Hi 👋, I'm Juan Manuel <br> *In constant search of new challenges* </br> </h1>
 
 - 🌍 I am from: Buenos Aires, Argentina
 
