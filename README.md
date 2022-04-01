@@ -5,7 +5,7 @@
 
 - 🔭 I am currently collaborating with *Credipaz S.A.* in creating new developments for your financial systems [Credipaz S.A.](https://credipaz.com/)
 
-- 🌱 I’m currently learning **  PWA Blazor Application **
+- 🌱 I’m currently learning **  Reacts JS  **
 
 - 💾 All of my projects are available at [https://github.com/jmcorbera](https://github.com/jmcorbera)
 
