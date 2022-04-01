@@ -5,7 +5,7 @@
 
 - 🔭 I am currently collaborating with *Credipaz S.A.* in creating new developments for your financial systems [Credipaz S.A.](https://credipaz.com/)
 
-- 🌱 I’m currently learning **  Reacts JS  **
+- 🌱 I’m currently learning **   <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_reactjs_icon_130205.png" width="10" height="10"/> Reacts JS  **
 
 - 💾 All of my projects are available at [https://github.com/jmcorbera](https://github.com/jmcorbera)
 
