@@ -3,7 +3,7 @@
 
 - 🌍 I am from: Buenos Aires, Argentina
 
-- 🔭 I am currently collaborating with *Credipaz S.A.* in creating new developments for your financial systems [Credipaz S.A.](https://credipaz.com/)
+- 🔭 I am currently collaborating with *AgroFy* in the implementation of new solutions for their e-commerce system [Agrofy S.A.](https://www.agrofy.com.ar/)
 
 - 🌱 I’m currently learning **  Reacts JS <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_reactjs_icon_130205.png" align="center" width="20" height="20"/> **
 
