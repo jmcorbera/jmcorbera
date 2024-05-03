@@ -5,7 +5,7 @@
 
 - 🔭 I am currently collaborating with *AgroFy* in the implementation of new solutions for their e-commerce system [Agrofy S.A.](https://www.agrofy.com.ar/)
 
-- 🌱 I’m currently learning ** <a href="https://go.dev/" target="blank"> <img src="https://go.dev/blog/go-brand/Go-Logo/SVG/Go-Logo_Aqua.svg" align="center" width="50" height="50"/> </a>**
+- 🌱 I’m currently learning ** <a href="https://go.dev/" target="_blank"> <img src="https://go.dev/blog/go-brand/Go-Logo/SVG/Go-Logo_Aqua.svg" align="center" width="50" height="50"/> </a>**
 
 - 💾 All of my projects are available at [repositories](https://github.com/jmcorbera?tab=repositories)
 - 💬 Ask me about **C#, .Net Framework, .Net Core**
@@ -24,7 +24,7 @@
 <h3 align="left">Connect with me:</h3> 
 
 <p align="left">
-<a href="https://www.linkedin.com/in/juan-manuel-corbera/en" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/LinkedIn_2021.svg/320px-LinkedIn_2021.svg.png" alt="juan-manuel-corbera" height="40" width="100"/></a>
-<a href="https://twitter.com/CorberaJuanMa?s=09" target="blank"><img align="center" src="https://img.icons8.com/fluent/96/000000/twitter.png" alt="CorberaJuanMa" height="40" width="40"/></a>
-<a href="https://slack.com/intl/es-ar/" target="blank"><img align="center" src="https://cdn.worldvectorlogo.com/logos/slack-new-logo.svg" alt="slack.com" height="40" width="40" /></a>
+<a href="https://www.linkedin.com/in/juan-manuel-corbera/en" target="_blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/600px-LinkedIn_logo_initials.png" alt="juan-manuel-corbera" height="40" width="40"/></a>
+<a href="https://twitter.com/CorberaJuanMa?s=09" target="_blank"><img align="center" src="https://img.icons8.com/fluent/96/000000/twitter.png" alt="CorberaJuanMa" height="40" width="40"/></a>
+<a href="https://slack.com/intl/es-ar/" target="_blank"><img align="center" src="https://cdn.worldvectorlogo.com/logos/slack-new-logo.svg" alt="slack.com" height="40" width="40" /></a>
 </p>
