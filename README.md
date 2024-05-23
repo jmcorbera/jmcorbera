@@ -3,7 +3,7 @@
 
 - 🌍 I am from: Buenos Aires, Argentina
 
-- 🔭 I am currently collaborating with *AgroFy* in the implementation of new solutions for their e-commerce system [Agrofy S.A.](https://www.agrofy.com.ar/)
+- 🔭 I am currently collaborating with *MobileComputing* in the implementation of new solutions (Full Wallet Solution) for their customer CCN (Nicaragua)[MobileComputing](https://www.mobilecomputing.com.ar/)
 
 - 🌱 I’m currently learning ** <a href="https://go.dev/" target="_blank"> <img src="https://go.dev/blog/go-brand/Go-Logo/SVG/Go-Logo_Aqua.svg" align="center" width="50" height="50"/> </a>**
 
