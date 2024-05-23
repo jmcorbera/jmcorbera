@@ -3,7 +3,7 @@
 
 - 🌍 I am from: Buenos Aires, Argentina
 
-- 🔭 I am currently collaborating with *MobileComputing* in the implementation of new solutions (Full Wallet Solution) for their customer CCN (Nicaragua)[MobileComputing](https://www.mobilecomputing.com.ar/)
+- 🔭 I am currently collaborating with *[MobileComputing](https://www.mobilecomputing.com.ar/)* in the implementation of new solutions (Full Wallet Solution) for their customer CCN (Nicaragua).
 
 - 🌱 I’m currently learning ** <a href="https://go.dev/" target="_blank"> <img src="https://go.dev/blog/go-brand/Go-Logo/SVG/Go-Logo_Aqua.svg" align="center" width="50" height="50"/> </a>**
 
